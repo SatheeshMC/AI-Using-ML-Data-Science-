@@ -1,1 +1,1 @@
-# Applied-Data-Science
+# AI Using ML (Data Science)
